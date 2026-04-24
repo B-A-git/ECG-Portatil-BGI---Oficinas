@@ -5,3 +5,5 @@ preventivo doméstico, há uma carência de dispositivos que integrem portabilid
 facilidade de compartilhamento de dados médicos. Problema a resolver: A dificuldade de acesso a
 exames de ECG rápidos, portáteis e sem fio que permitam a geração imediata de laudos digitais
 (PDF).
+
+Nossa proposta é criar um ECG portátil, reutilizável, simples e democrático.
